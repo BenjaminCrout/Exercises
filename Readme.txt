@@ -61,7 +61,7 @@ Expected output for lrthw_ex3.rb file when run from the command line is:
   Is it less or equal? false
 
 NOTE: Notice the octothorpes and how they are used to document whats happening in the code without affecting
-the functionality.
+the functionality. Also the method ".to_f" can be used to change whole numbers to floating point numbers.
 
 Expected output for lrthw_ex4.rb file when run from the command line is:
 
