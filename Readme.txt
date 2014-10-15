@@ -46,14 +46,14 @@ Expected output for lrthw_ex2.rb file when run from the command line is:
 Expected output for lrthw_ex3.rb file when run from the command line is:
 
   I will now count my chickens:
-  Hens 30
-  Roosters 97
+  Hens 30.0
+  Roosters 97.0
   Now I will count the eggs:
-  7
+  7.0
   Is it true that 3 + 2 < 5 - 7?
   false
-  What is 3 + 2? 5
-  What is 5 - 7? -2
+  What is 3 + 2? 5.0
+  What is 5 - 7? -2.0
   Oh, that's why it's false.
   How about some more.
   Is it greater? true
