@@ -43,3 +43,25 @@ Expected output for lrthw_ex2.rb file when run from the command line is:
   I could have code lke this.
   This will run.
 
+Expected output for lrthw_ex3.rb file when run from the command line is:
+
+  I will now count my chickens:
+  Hens 30
+  Roosters 97
+  Now I will count the eggs:
+  7
+  Is it true that 3 + 2 < 5 - 7?
+  false
+  What is 3 + 2? 5
+  What is 5 - 7? -2
+  Oh, that's why it's false.
+  How about some more.
+  Is it greater? true
+  Is it greater or equal? true
+  Is it less or equal? false
+
+NOTE: Notice the octothorpes and how they are used to document whats happening in the code without affecting
+the functionality.
+
+Expected output for lrthw_ex4.rb file when run from the command line is:
+
