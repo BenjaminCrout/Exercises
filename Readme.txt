@@ -28,3 +28,14 @@ I "said" do not touch this.
 
 NOTE: This exercise can be found at http://ruby.learncodethehardway.org/book/ex1.html
 
+Expected output for lrthw_ex1.rb file after doing the extras listed below:
+
+Make the script print another line.
+Make the script print only one line.
+Add a final line to the script explaining what an octothorpe is and what id does in Ruby.
+
+OUTPUT:
+This line is extra, and was not here before.
+An octothorpe is also called a "hash", and in Ruby code it will comment out the line that follows it.
+
+
