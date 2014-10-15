@@ -15,3 +15,16 @@ That means when you turn 20, you've been alive for 628992000 seconds,
 and if you make it to 100, you will have lived 3144960000 seconds. Make them count!
 
 NOTE: Use descriptive variable names, and calculate the values.
+
+Expected output for lrthw_ex1.rb file when run from the command line is:
+
+Hello World!
+Hello Again
+I like typing this.
+This is fun.
+Yay! Printing.
+I'd much rather you 'not'.
+I "said" do not touch this.
+
+NOTE: This exercise can be found at http://ruby.learncodethehardway.org/book/ex1.html
+
