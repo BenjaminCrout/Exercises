@@ -14,8 +14,6 @@ Expected Output for number_of_seconds.rb file when run from the command line is:
   That means when you turn 20, you've been alive for 628992000 seconds,
   and if you make it to 100, you will have lived 3144960000 seconds. Make them count!
 
-NOTE: Use descriptive variable names, and calculate the values.
-
 Expected output for lrthw_ex1.rb file when run from the command line is:
 
   Hello World!
@@ -25,8 +23,6 @@ Expected output for lrthw_ex1.rb file when run from the command line is:
   Yay! Printing.
   I'd much rather you 'not'.
   I "said" do not touch this.
-
-NOTE: This exercise can be found at http://ruby.learncodethehardway.org/book/ex1.html
 
 Expected output for lrthw_ex1.rb file after doing the extras listed below:
 
@@ -74,13 +70,13 @@ Expected output for lrthw_ex4.rb file when run from the command line is:
 
 Expected output for lrthw_ex5.rb when run from the command line is:
 
-  Let's talk about Zed A. Shaw.
-  He's 74 inches tall.
-  He's 180 pounds heavy.
+  Let's talk about Ben Crout.
+  He's 60 inches tall.
+  He weighs 180 pounds.
   Actually that's not too heavy.
-  He's got Blue eyes and Brown hair.
+  He's got Hazel eyes and Brown hair.
   His teeth are usually White depending on the coffee.
-  If I add 35, 74, and 180 I get 289.
+  If I add 28, 60, and 180 I get 268.
 
 Expected output for lrthw_ex6.rb when run from the command line is:
 
