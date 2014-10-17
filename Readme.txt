@@ -65,3 +65,29 @@ the functionality. Also the method ".to_f" can be used to change whole numbers t
 
 Expected output for lrthw_ex4.rb file when run from the command line is:
 
+  There are 100 cars available.
+  There are only 30 drivers available.
+  There will be 70 empty cars today.
+  We can transport 120.0 people today.
+  We have 90 to carpool today.
+  We need to put about 3 in each car.
+
+Expected output for lrthw_ex5.rb when run from the command line is:
+
+  Let's talk about Zed A. Shaw.
+  He's 74 inches tall.
+  He's 180 pounds heavy.
+  Actually that's not too heavy.
+  He's got Blue eyes and Brown hair.
+  His teeth are usually White depending on the coffee.
+  If I add 35, 74, and 180 I get 289.
+
+Expected output for lrthw_ex6.rb when run from the command line is:
+
+  There are 10 types of people.
+  Those who know binary and those who don't.
+  I said: There are 10 types of people..
+  I also said: 'Those who know binary and those who don't.'.
+  Isn't that joke so funny?! false
+  This is the left side of...a string with a right side.
+
